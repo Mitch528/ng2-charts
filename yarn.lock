@@ -144,11 +144,9 @@
     magic-string "^0.19.0"
     source-map "^0.5.6"
 
-"@types/chart.js@2.4.2":
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/@types/chart.js/-/chart.js-2.4.2.tgz#093e4d4bf9564a6b37a5977d6f0900f46cefba67"
-  dependencies:
-    "@types/jquery" "*"
+"@types/chartjs@0.0.30":
+  version "0.0.30"
+  resolved "https://registry.yarnpkg.com/@types/chartjs/-/chartjs-0.0.30.tgz#b3e118a792421c8a11d1dccc09d5cbc4e8b3cd24"
 
 "@types/fs-extra@^3.0.0":
   version "3.0.3"
@@ -174,10 +172,6 @@
 "@types/jasmine@2.5.47":
   version "2.5.47"
   resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-2.5.47.tgz#bbba9bcf0e95e7890c6f4a47394e8bacaa960eb6"
-
-"@types/jquery@*":
-  version "3.2.12"
-  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.2.12.tgz#f496823108c3874c97c9a822e675a3926ee64b46"
 
 "@types/lodash@^4.14.37":
   version "4.14.50"
